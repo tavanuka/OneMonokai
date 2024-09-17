@@ -6,13 +6,6 @@
 
     <depends>com.intellij.modules.platform</depends>
 
-    <resource-bundle>messages.MyBundle</resource-bundle>
-
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.tavanuka.onemonokai.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
     </extensions>
-
-    <applicationListeners>
-        <listener class="com.github.tavanuka.onemonokai.listeners.MyApplicationActivationListener" topic="com.intellij.openapi.application.ApplicationActivationListener"/>
-    </applicationListeners>
 </idea-plugin>
