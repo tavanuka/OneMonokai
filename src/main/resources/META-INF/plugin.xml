@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.tavanuka.onemonokai</id>
-    <name>OneMonokai</name>
-    <vendor>tavanuka</vendor>
+    <id>com.tavanuka.onemonokai</id>
+    <name>One Monokai</name>
+    <vendor>Mark Novak</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
