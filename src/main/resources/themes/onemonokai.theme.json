@@ -47,26 +47,24 @@
       "pressedBackground": "#3f444d",
       "pressedBorderColor": "#3f444d"
     },
-    "BookmarkIcon.background": "#d9a343",
-    "BookmarkMnemonicAssigned": {
-      "foreground": "#ffffff",
-      "background": "#4d78cc",
-      "borderColor": "#4d78cc"
-    },
-    "BookmarkMnemonicAvailable": {
-      "borderColor": "borderColor",
-      "foreground": "#a0a7b4",
-      "background": "#3d424b"
-    },
-    "BookmarkMnemonicCurrent": {
-      "borderColor": "accentColor",
-      "foreground": "#a0a7b4",
-      "background": "#323844"
-    },
-    "BookmarkMnemonicIcon": {
-      "foreground": "#a0a7b4",
-      "background": "#3d424b",
-      "borderColor": "accentColor"
+    "Bookmark": {
+      "iconBackground": "#d9a343",
+      "Mnemonic": {
+        "iconForeground": "#a0a7b4"
+      },
+      "MnemonicAssigned": {
+        "foreground": "#ffffff",
+        "background": "#4d78cc"
+      },
+      "MnemonicAvailable": {
+        "borderColor": "borderColor",
+        "foreground": "#a0a7b4",
+        "background": "#3d424b"
+      },
+      "MnemonicCurrent": {
+        "foreground": "#a0a7b4",
+        "background": "#323844"
+      }
     },
     "Button": {
       "foreground": "#a0a7b4",
