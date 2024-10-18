@@ -1,6 +1,6 @@
 # One Monokai
 
-![Build](https://github.com/tavanuka/OneMonokai/workflows/Build/badge.svg)
+[![Build](https://github.com/tavanuka/OneMonokai/workflows/Build/badge.svg)](https://github.com/tavanuka/OneMonokai/actions?query=workflow%3ABuild)
 [![Version](https://img.shields.io/jetbrains/plugin/v/25614-one-monokai.svg)](https://plugins.jetbrains.com/plugin/25614-one-monokai)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/25614-one-monokai.svg)](https://plugins.jetbrains.com/plugin/25614-one-monokai)
 
