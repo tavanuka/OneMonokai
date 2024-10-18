@@ -27,6 +27,14 @@ Heavily customized One Monokai theme. Refreshed for the new IntelliJ UI appearan
   Download the [latest release](https://github.com/tavanuka/OneMonokai/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
+## Sources
+
+The motivation behind this theme plugin was to combine my favorite themes and editor highlighting schemes
+into one package, tweaked and adjusted to what my eyes find comfortable to use. A special thank-you goes to these projects that inspired and provided the following:
+- [One Dark Theme](https://github.com/one-dark/jetbrains-one-dark-theme) - Inspiration for the color theme
+- [One Monokai Color Scheme](https://plugins.jetbrains.com/plugin/12892-one-monokai-color-scheme) - Original editor color scheme
+- [VSCode One Monokai Theme](https://github.com/azemoh/vscode-one-monokai) - Plugin bade icon
+- Jetbrains' default Dark theme on which the theme template was **heavily** based off
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
