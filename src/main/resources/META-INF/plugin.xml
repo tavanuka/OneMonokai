@@ -7,6 +7,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.tavanuka.onemonokai" path="/themes/onemonokai.theme.json"/>
+        <themeProvider id="240536f2-772c-4372-942f-d3fac896ba6c" path="/themes/onemonokai.theme.json"/>
     </extensions>
 </idea-plugin>
