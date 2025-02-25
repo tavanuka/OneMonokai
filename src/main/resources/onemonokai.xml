@@ -1091,6 +1091,7 @@
                 <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
+        <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
             <value />
         </option>
