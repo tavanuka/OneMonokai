@@ -707,26 +707,26 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="4b1515" />
-                <option name="ERROR_STRIPE_COLOR" value="b03435" />
+                <option name="BACKGROUND" value="913a3a" />
+                <option name="ERROR_STRIPE_COLOR" value="e06c75" />
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="41454b" />
-                <option name="ERROR_STRIPE_COLOR" value="656e76" />
+                <option name="BACKGROUND" value="353c46" />
+                <option name="ERROR_STRIPE_COLOR" value="5c6370" />
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="264b33" />
-                <option name="ERROR_STRIPE_COLOR" value="447152" />
+                <option name="BACKGROUND" value="2d4134" />
+                <option name="ERROR_STRIPE_COLOR" value="98c379" />
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="12404b" />
-                <option name="ERROR_STRIPE_COLOR" value="43698d" />
+                <option name="BACKGROUND" value="2c4957" />
+                <option name="ERROR_STRIPE_COLOR" value="61afef" />
             </value>
         </option>
         <option name="DJANGO_FILTER">
