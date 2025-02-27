@@ -122,6 +122,7 @@
       "disabledText": "Gray6",
       "disabledForeground": "Gray6",
       "inactiveForeground": "Gray6",
+      "inactiveBackground": "Gray3",
       "disabledBackground": "Gray2",
       "disabledBorderColor": "Gray4",
 
