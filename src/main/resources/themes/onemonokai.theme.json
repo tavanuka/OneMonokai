@@ -116,7 +116,7 @@
 
     "*": {
       "foreground": "Gray12",
-      "background":  "Gray2",
+      "background": "Gray2",
       "borderColor": "Gray1",
 
       "disabledText": "Gray6",
@@ -237,7 +237,7 @@
       },
       "Block": {
         "backgroundOpacity": 100,
-        "borderColor":"Gray3",
+        "borderColor": "Gray3",
         "EditorPane": {
           "backgroundColor": "Gray5",
           "backgroundOpacity": 20,
@@ -248,7 +248,7 @@
 
     "Shortcut": {
       "backgroundOpacity": 0,
-      "borderColor":"Gray7"
+      "borderColor": "Gray7"
     },
 
     "ComboPopup.border": "1,1,1,1,#43454A",
@@ -314,16 +314,15 @@
       "hoverInactiveBackground": "#1E1F2200",
       "inactiveColoredFileBackground": "#1E1F2280",
       "underlinedTabBackground": "Gray1",
-      "underTabsBorderColor":"Gray3"
+      "underTabsBorderColor": "Gray3"
     },
 
     "Editor": {
-      "SearchField" : {
+      "SearchField": {
         "background": "Gray1"
       },
-
-      "Toolbar" : {
-        "borderColor" : "Gray3"
+      "Toolbar": {
+        "borderColor": "Gray3"
       },
 
       "ToolTip": {
@@ -518,7 +517,7 @@
         "Background": "Gray4",
         "Foreground": "Gray8"
       },
-      "ChatItem":{
+      "ChatItem": {
         "Hover": "#5A5D6333"
       }
     },
@@ -641,8 +640,7 @@
     },
 
     "ToolBar.separatorColor": "Gray4",
-
-    "ToolTip":{
+    "ToolTip": {
       "background": "Gray3",
       "borderColor": "Gray4",
       "foreground": "Gray13",
@@ -704,8 +702,8 @@
         "foreground": "Gray9",
         "selectedForeground": "Gray14",
         "selectedBackground": "Blue6",
-        "DragAndDrop" : {
-          "stripeBackground" : "Gray2",
+        "DragAndDrop": {
+          "stripeBackground": "Gray2",
           "buttonDropBackground": "#35538F99",
           "buttonDropBorderColor": "Blue8",
           "buttonFloatingBackground": "Gray5"
@@ -736,9 +734,7 @@
       "background": "Gray2",
       "separatorColor": "Gray4"
     },
-
-    "Window.undecorated.border" : "1,1,1,1,#5A5D63",
-
+    "Window.undecorated.border": "1,1,1,1,#5A5D63",
     "Tree": {
       "rowHeight": 24,
       "hash": "Gray5",
@@ -989,7 +985,7 @@
       "PackageTagSelected.background": "Blue4",
       "PackageTagSelected.foreground": "Gray10"
     },
-    "RunWidget" : {
+    "RunWidget": {
       "foreground": "Gray12",
       "iconColor": "Gray12",
       "runningBackground": "Green6",
@@ -998,7 +994,7 @@
       "pressedBackground": "#00000028"
     },
 
-    "MainWindow.Tab" : {
+    "MainWindow.Tab": {
       "selectedForeground": "Gray11",
       "selectedBackground": "Gray2",
       "selectedInactiveBackground": "Gray3",
@@ -1041,7 +1037,7 @@
       }
     },
     "CompilationCharts": {
-      "background":{
+      "background": {
         "odd": "Gray2",
         "even": "Gray3",
         "default": "Gray2"
@@ -1074,20 +1070,20 @@
       "scaleColor": "#375FAD",
       "foreground": "#DFE1E5"
     },
-    "LineProfiler" : {
-      "Line" : {
-        "labelBackground" : "Gray2",
-        "foreground" : "Gray7",
-        "hoverBackground" : "Gray3"
+    "LineProfiler": {
+      "Line": {
+        "labelBackground": "Gray2",
+        "foreground": "Gray7",
+        "hoverBackground": "Gray3"
       },
-      "HotLine" : {
-        "labelBackground" : "Red1",
-        "foreground" : "Red7",
-        "hoverBackground" : "Red3"
+      "HotLine": {
+        "labelBackground": "Red1",
+        "foreground": "Red7",
+        "hoverBackground": "Red3"
       },
-      "IgnoredLine" : {
-        "labelBackground" : "Gray2",
-        "foreground" : "Gray5"
+      "IgnoredLine": {
+        "labelBackground": "Gray2",
+        "foreground": "Gray5"
       }
     },
     "PresentationAssistant": {
