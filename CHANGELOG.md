@@ -3,6 +3,8 @@
 # OneMonokai Changelog
 
 ## [Unreleased]
+
+### Changed
 - Update version compatibility range for latest builds
 - Miscellaneous dependency updates
 
