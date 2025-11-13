@@ -3,6 +3,8 @@
 # OneMonokai Changelog
 
 ## [Unreleased]
+- Update version compatibility range for latest builds
+- Miscellaneous dependency updates
 
 ## [0.2.0] - 2025-05-03
 
