@@ -6,6 +6,7 @@
 
 ### Changed
 - Update version compatibility range for latest builds
+- Updated minimum requirement to at least version 2024.1
 - Miscellaneous dependency updates
 
 ## [0.2.0] - 2025-05-03
