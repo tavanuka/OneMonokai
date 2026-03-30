@@ -3,6 +3,7 @@
 # OneMonokai Changelog
 
 ## [Unreleased]
+- Remove build version compatibility upper range
 
 ### Changed
 - Update version compatibility range for latest builds
