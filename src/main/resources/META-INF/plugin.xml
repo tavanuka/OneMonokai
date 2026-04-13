@@ -8,5 +8,8 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="240536f2-772c-4372-942f-d3fac896ba6c" path="/themes/onemonokai.theme.json"/>
+
+        <bundledColorScheme id="onemonokai-editor-scheme" path="/onemonokai"/>
+        <bundledColorScheme id="onemonokai-legacy-editor-scheme" path="/onemonokai-legacy"/>
     </extensions>
 </idea-plugin>
