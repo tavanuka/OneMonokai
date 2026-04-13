@@ -1,68 +1,68 @@
-<scheme name="One Monokai" version="142" parent_scheme="Darcula">
+<scheme name="One Monokai (Legacy)" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <colors>
-        <option name="ADDED_LINES_COLOR" value="98C379" />
-        <option name="ANNOTATIONS_COLOR" value="FFFBF7" />
-        <option name="CARET_COLOR" value="ABB2BF" />
-        <option name="CARET_ROW_COLOR" value="2C323C" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="282C34" />
-        <option name="DELETED_LINES_COLOR" value="E06C75" />
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="21252B" />
-        <option name="DIFF_SEPARATORS_TOP_BORDER" value="1B262B" />
-        <option name="DOCUMENTATION_COLOR" value="282C34" />
-        <option name="FILESTATUS_ADDED" value="98C379" />
-        <option name="FILESTATUS_COPIED" value="98C379" />
-        <option name="FILESTATUS_DELETED" value="59626F" />
-        <option name="FILESTATUS_HIJACKED" value="E5C07B" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626F" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AB7967" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="E06C75" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="E06C75" />
-        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="E06C75" />
-        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="77AF4E" />
-        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="AB7967" />
-        <option name="FILESTATUS_MERGED" value="C678DD" />
-        <option name="FILESTATUS_MODIFIED" value="59B3AB" />
-        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="59B3AB" />
-        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="59B3AB" />
-        <option name="FILESTATUS_SUPPRESSED" value="59626F" />
-        <option name="FILESTATUS_SWITCHED" value="C678DD" />
-        <option name="FILESTATUS_UNKNOWN" value="F59762" />
-        <option name="FILESTATUS_addedOutside" value="98C379" />
-        <option name="FILESTATUS_changelistConflict" value="E06C75" />
-        <option name="FILESTATUS_modifiedOutside" value="82AAFF" />
-        <option name="GUTTER_BACKGROUND" value="282C34" />
-        <option name="INDENT_GUIDE" value="59575A" />
-        <option name="INFORMATION_HINT" value="282C34" />
-        <option name="LINE_NUMBERS_COLOR" value="636D83" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="C1C0C0" />
-        <option name="LOOKUP_COLOR" value="21252B" />
-        <option name="METHOD_SEPARATORS_COLOR" value="59575A" />
-        <option name="MODIFIED_LINES_COLOR" value="FC9867" />
-        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="AB7967" />
-        <option name="MT_SUPPRESSED" value="EEFFFF" />
-        <option name="NOTIFICATION_BACKGROUND" value="19181A" />
+        <option name="ADDED_LINES_COLOR" value="98c379" />
+        <option name="ANNOTATIONS_COLOR" value="fffbf7" />
+        <option name="CARET_COLOR" value="abb2bf" />
+        <option name="CARET_ROW_COLOR" value="2c323c" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
+        <option name="DELETED_LINES_COLOR" value="e06c75" />
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
+        <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
+        <option name="DOCUMENTATION_COLOR" value="282c34" />
+        <option name="FILESTATUS_ADDED" value="98c379" />
+        <option name="FILESTATUS_COPIED" value="98c379" />
+        <option name="FILESTATUS_DELETED" value="59626f" />
+        <option name="FILESTATUS_HIJACKED" value="e5c07b" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="e06c75" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="e06c75" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="e06c75" />
+        <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="77af4e" />
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+        <option name="FILESTATUS_MERGED" value="c678dd" />
+        <option name="FILESTATUS_MODIFIED" value="59b3ab" />
+        <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="59b3ab" />
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="59b3ab" />
+        <option name="FILESTATUS_SUPPRESSED" value="59626f" />
+        <option name="FILESTATUS_SWITCHED" value="c678dd" />
+        <option name="FILESTATUS_UNKNOWN" value="f59762" />
+        <option name="FILESTATUS_addedOutside" value="98c379" />
+        <option name="FILESTATUS_changelistConflict" value="e06c75" />
+        <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+        <option name="GUTTER_BACKGROUND" value="282c34" />
+        <option name="INDENT_GUIDE" value="59575a" />
+        <option name="INFORMATION_HINT" value="282c34" />
+        <option name="LINE_NUMBERS_COLOR" value="636d83" />
+        <option name="LOOKUP_COLOR" value="21252b" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c1c0c0" />
+        <option name="METHOD_SEPARATORS_COLOR" value="59575a" />
+        <option name="MODIFIED_LINES_COLOR" value="fc9867" />
+        <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+        <option name="MT_SUPPRESSED" value="eeffff" />
+        <option name="NOTIFICATION_BACKGROUND" value="19181a" />
         <option name="NOT_CHANGED" value="939393" />
-        <option name="QUESTION_HINT" value="282C34" />
-        <option name="RIGHT_MARGIN_COLOR" value="59575A" />
-        <option name="SELECTED_INDENT_GUIDE" value="56B6C2" />
-        <option name="SELECTED_TEARLINE_COLOR" value="56B6C2" />
-        <option name="SELECTION_BACKGROUND" value="3E4451" />
-        <option name="SELECTION_FOREGROUND" value="FFFBF7" />
-        <option name="SEPARATOR_BELOW_COLOR" value="282C34" />
-        <option name="SOFT_WRAP_SIGN_COLOR" value="282C34" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="2979FF8C" />
-        <option name="ScrollBar.Mac.thumbColor" value="2979FF59" />
-        <option name="TEARLINE_COLOR" value="2C323C" />
-        <option name="TOOLTIP" value="282C34" />
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="59626F" />
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="59575A" />
-        <option name="VCS_ANNOTATIONS_COLOR_3" value="E06C75" />
-        <option name="VCS_ANNOTATIONS_COLOR_4" value="39ADB5" />
-        <option name="VCS_ANNOTATIONS_COLOR_5" value="F59762" />
-        <option name="VISUAL_INDENT_GUIDE" value="59575A" />
-        <option name="WHITESPACES" value="59575A" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626F" />
+        <option name="QUESTION_HINT" value="282c34" />
+        <option name="RIGHT_MARGIN_COLOR" value="59575a" />
+        <option name="SELECTED_INDENT_GUIDE" value="56b6c2" />
+        <option name="SELECTED_TEARLINE_COLOR" value="56b6c2" />
+        <option name="SELECTION_BACKGROUND" value="3e4451" />
+        <option name="SELECTION_FOREGROUND" value="fffbf7" />
+        <option name="SEPARATOR_BELOW_COLOR" value="282c34" />
+        <option name="SOFT_WRAP_SIGN_COLOR" value="282c34" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="2979ff8c" />
+        <option name="ScrollBar.Mac.thumbColor" value="2979ff59" />
+        <option name="TEARLINE_COLOR" value="2c323c" />
+        <option name="TOOLTIP" value="282c34" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="59626f" />
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="e06c75" />
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="f59762" />
+        <option name="VISUAL_INDENT_GUIDE" value="59575a" />
+        <option name="WHITESPACES" value="59575a" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
     </colors>
     <attributes>
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -449,6 +449,7 @@
         <option name="CTRL_CLICKABLE">
             <value>
                 <option name="FOREGROUND" value="e91e63" />
+                <option name="EFFECT_TYPE" value="-1" />
             </value>
         </option>
         <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -499,8 +500,7 @@
         </option>
         <option name="DEFAULT_CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="61afef" />
-                <option name="EFFECT_TYPE" value="4" />
+                <option name="FOREGROUND" value="98c379" />
             </value>
         </option>
         <option name="DEFAULT_CLASS_REFERENCE">
@@ -531,7 +531,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
             <value>
-                <option name="FOREGROUND" value="d19a66" />
+                <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
         <option name="DEFAULT_DOC_MARKUP">
@@ -582,8 +582,6 @@
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
                 <option name="FOREGROUND" value="61afef" />
-                <option name="EFFECT_COLOR" value="98c379" />
-                <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -608,7 +606,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="d19a66" />
+                <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -628,7 +626,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="d19a66" />
+                <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
         <option name="DEFAULT_PARENTHS">
@@ -643,15 +641,15 @@
         </option>
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="d19a66" />
+                <option name="FOREGROUND" value="f59762" />
                 <option name="EFFECT_COLOR" value="abb2bf" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="d19a66" />
-                <option name="EFFECT_COLOR" value="d19a66" />
+                <option name="FOREGROUND" value="f78c6c" />
+                <option name="EFFECT_COLOR" value="f78c6c" />
             </value>
         </option>
         <option name="DEFAULT_SEMICOLON">
@@ -1087,6 +1085,7 @@
                 <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
+        <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
             <value />
         </option>
@@ -2423,6 +2422,11 @@
         <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
             <value />
         </option>
+        <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK_TAG">
+            <value>
+                <option name="FOREGROUND" value="a699e6" />
+            </value>
+        </option>
         <option name="ReSharper.ASP_NET_RAZOR_TAG_HELPER_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="8080" />
@@ -2450,7 +2454,7 @@
         </option>
         <option name="ReSharper.EVENT_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="d19a66" />
+                <option name="FOREGROUND" value="f59762" />
             </value>
         </option>
         <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER">
@@ -2476,7 +2480,7 @@
         </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
             <value>
-                <option name="FOREGROUND" value="98c379" />
+                <option name="FOREGROUND" value="e5c07b" />
             </value>
         </option>
         <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
