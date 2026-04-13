@@ -3,7 +3,10 @@
 # OneMonokai Changelog
 
 ## [Unreleased]
-- Remove build version compatibility upper range
+- (Editor): Improve the color scheme definition between method/funcions and class/interfaces in the editor
+  - *If you prefer the older color scheme, it has been renamed to One Monokai (Legacy).*
+- Update the gradle build configuration
+- Introduce minimal support for 2025.3 in preparation for Islands theme support
 
 ### Changed
 - Update version compatibility range for latest builds
