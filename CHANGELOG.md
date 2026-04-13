@@ -3,14 +3,22 @@
 # OneMonokai Changelog
 
 ## [Unreleased]
+
+## [0.2.3] - 2026-04-13
+
 ### Added
+
 - (Editor): Improve the color scheme definition between method/funcions and class/interfaces in the editor
   - *If you prefer the older color scheme, it has been renamed to One Monokai (Legacy).*
+
 ### Changed
+
 - Update the gradle build configuration
 
 ## [0.2.2] - 2026-03-30
+
 ### Changed
+
 - Update version compatibility range for latest builds
 - Updated minimum requirement to at least version 2024.1
 - Miscellaneous dependency updates
@@ -42,8 +50,10 @@
 
 - Initial plugin creation.
 
-[Unreleased]: https://github.com/tavanuka/OneMonokai/compare/v0.2.0...HEAD
-[0.2.0]: https://github.com/tavanuka/OneMonokai/compare/v0.1.2...v0.2.0
-[0.1.3]: https://github.com/tavanuka/OneMonokai/compare/v0.1.2...v0.1.3
-[0.1.2]: https://github.com/tavanuka/OneMonokai/compare/v0.1.1...v0.1.2
-[0.1.1]: https://github.com/tavanuka/OneMonokai/commits/v0.1.1
+[Unreleased]: https://github.com/tavanuka/OneMonokai/compare/0.2.3...HEAD
+[0.2.3]: https://github.com/tavanuka/OneMonokai/compare/0.2.2...0.2.3
+[0.2.2]: https://github.com/tavanuka/OneMonokai/compare/0.2.0...0.2.2
+[0.2.0]: https://github.com/tavanuka/OneMonokai/compare/0.1.3...0.2.0
+[0.1.3]: https://github.com/tavanuka/OneMonokai/compare/0.1.2...0.1.3
+[0.1.2]: https://github.com/tavanuka/OneMonokai/compare/0.1.1...0.1.2
+[0.1.1]: https://github.com/tavanuka/OneMonokai/commits/0.1.1
